@@ -5,7 +5,7 @@ h1 {
 }
 h1:hover {
   color: black;
-  font-size: 3em;
+  font-size: 4em;
   cursor: default;
 }
 h1::selection {
