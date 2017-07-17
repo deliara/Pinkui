@@ -1,0 +1,27 @@
+h1 {
+  color: pink;
+  text-align: center;
+}
+h1:hover {
+  color: black;
+  font-size: 1.8em;
+  cursor: default;
+}
+h1::selection {
+  background: transparent;
+  }
+
+a:link {
+  text-decoration: none;
+  color: pink;
+  }
+a:visited {
+  text-decoration: line-through;
+  color: pink;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
